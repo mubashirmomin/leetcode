@@ -5,12 +5,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/mubashirmomin/leetcode/tree/master/0392-is-subsequence) |
+| [0844-backspace-string-compare](https://github.com/mubashirmomin/leetcode/tree/master/0844-backspace-string-compare) |
 ## String
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/mubashirmomin/leetcode/tree/master/0392-is-subsequence) |
+| [0844-backspace-string-compare](https://github.com/mubashirmomin/leetcode/tree/master/0844-backspace-string-compare) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/mubashirmomin/leetcode/tree/master/0392-is-subsequence) |
+## Stack
+|  |
+| ------- |
+| [0844-backspace-string-compare](https://github.com/mubashirmomin/leetcode/tree/master/0844-backspace-string-compare) |
+## Simulation
+|  |
+| ------- |
+| [0844-backspace-string-compare](https://github.com/mubashirmomin/leetcode/tree/master/0844-backspace-string-compare) |
 <!---LeetCode Topics End-->
