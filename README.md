@@ -23,4 +23,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0844-backspace-string-compare](https://github.com/mubashirmomin/leetcode/tree/master/0844-backspace-string-compare) |
+## Array
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/mubashirmomin/leetcode/tree/master/0643-maximum-average-subarray-i) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/mubashirmomin/leetcode/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
